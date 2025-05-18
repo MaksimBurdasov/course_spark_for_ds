@@ -5,12 +5,12 @@
 `git clone https://github.com/newprolab/sber-spark-ds-18.git`
 
 ## Изученные темы
-| 1 | Hadoop для Spark-пользователя  |
-| 2 | Apache Spark |
-| 3 | Spark Dataframes |
-| 4 | Spark Spark ML |
-| 5 | Spark Streaming |
-| 6 | Spark Scala API |
+- Hadoop для Spark-пользователя
+- Apache Spark
+- Spark Dataframes
+- Spark Spark ML
+- Spark Streaming
+- Spark Scala API
 
 
 ## Выполненные проекты
